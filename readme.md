@@ -1,49 +1,29 @@
-> Please read our slide creation guidelines in [the wiki](https://github.com/girldevelopit/gdi-slides-template/wiki). Then, delete this banner and add the specifics about your class below.
+# GDI Core Intro to Web Concepts
 
-# Add Your Course Title Here
+This is the official Girl Develop It Core Intro Web Concepts course. Material was originally developed by Matt Torbin and Elise Wei, and modified by GDI RDU & GDI Cincinnati.
 
-Slides and materials are hosted at [http://example.com/](http://example.com/).
+The course is meant to be taught in a single two-hour workshop.
 
-## Course description
+## Suggested course description
 
-Use this space for a short description of your course. We recommend using the description from your meetup event.
+_Not sure how the Internet works?_
 
-**Cost:** 
+_Want to build a cool website, but can’t decide what language to use?_
 
-**Dates:** 
+_Tired of techies throwing around acronyms that make your head spin?_
 
-**Location:** 
+In this class, we will walk through the fundamentals of web development in layman terms. While we won't be writing code, we'll take you through various components of the web and how they work together. If you want to learn how to communicate better with your technical team or friends or you're considering a career in technology but don't know where to begin, this course is for you. Topics include but are not limited to:
 
-A limited number of scholarships are available for those with a financial hardship. To apply, contact us at...
+What is the World Wide Web?
+Where are web site files generally stored?
+What is the difference between a client and a server?
+What do you need to know before building a web site?
+What language should you use and what are the differences?
+What tools do you need to develop a web site?
+Who does what on a typical web development team?
 
+This class is for people with little to no technical experience.
 
-### Prerequisites:
-
-List any prerequisites for this class, including any previous classes or the equivalent self-study or real-world skills.
-
-You should have:
-
-(a) taken Intro or Intermediate HTML/CSS through Girl Develop It, or
-
-(b) built and managed websites on your own,
-
-**And also:**
-
-(a) taken intro to JavaScript through Girl Develop It, or
-
-(b) be familiar with syntax, arrays, conditionals, for and while loops, event handling, jQuery, AJAX requests, and handling JSON responses.
-
-
-### Tech requirements:
-
- - Your laptop (Mac, PC, or Linux are all okay).
- - A modern web browser - either Chrome or Firefox with Firebug installed.
- - A text editor. We recommend Sublime Text 2 (free; available for Mac, PC, and Linux).
-
-
-### Topics covered:
-
- - The topics you plan to cover
- - Written in list form
- - Here's another one
+##Tech Requirements
+ - A laptop computer is helpful, but not required, to take this course.  
 
